@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bio</string>
+    <string name="name">Pascal De Borger</string>
+    <string name="my_bio"> Hello, my name is Pascal De Borger, and I am an System Administrator \n
+    with a large knowledge of Programming, like Java ! I have experience in Java Spring Application ans
+    also Android Mobile App Development. I have knowlegde of Oracle Database and Oracle Middleware,
+        like Weblogic Server. Nexus and Jenkins installation are not new to me. \n\n Thank you so much for being here.
+    It means the world of me !</string>
+    <string name="enter_hobbies">Enter Hobbies</string>
+    <string name="Button_done">Done</string>
+    <string name="Image_description">Android Robot Image</string>
+</resources>
